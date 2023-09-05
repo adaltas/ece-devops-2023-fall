@@ -6,7 +6,7 @@ authors:
 feature: ./feature/index.png
 ---
 
-# ece-devops-2023-spring-app
+# ece-devops-2023-fall
 
 Resources for the ECE 2023 DevOps class.
 
