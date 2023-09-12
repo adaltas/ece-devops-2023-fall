@@ -37,3 +37,4 @@ Enter your group members name and additional information here:
 ## Contact
 
 - Yanis Bariteau: yanis@adaltas.com
+- Gonzalo Etse: gonzaloetjo@gmail.com
