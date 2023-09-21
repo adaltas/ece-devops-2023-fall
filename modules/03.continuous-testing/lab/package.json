@@ -10,6 +10,7 @@
   "author": "Sergei Kudinov",
   "license": "",
   "dependencies": {
+    "body-parser": "^1.20.2",
     "express": "^4.17.2",
     "mixme": "^0.5.4",
     "redis": "^3.1.2"
