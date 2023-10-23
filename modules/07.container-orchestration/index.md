@@ -135,7 +135,7 @@ spec:
         - containerPort: 80
 ```
 
-[Read more](https://kubernetes.io/docs/concepts/workloads/pods/)
+[Read more]([https://kubernetes.io/docs/concepts/workloads/pods/](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/))
 
 ## Kubernetes Objects: Service
 
