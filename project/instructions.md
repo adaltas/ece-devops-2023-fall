@@ -117,6 +117,9 @@ Here is an example structure of your project repository:
 ```
 .github/
 labs/
+  lab1/
+  lab3/
+  lab4/
 userapi/
   src/
   test/
