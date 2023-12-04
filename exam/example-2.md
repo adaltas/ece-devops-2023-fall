@@ -6,11 +6,11 @@
 
 You need to revert the last commit in your local Git repository. Which sequence(s) of commands accomplish(es) this?
 
--A: git revert HEAD
--B: git reset --hard HEAD~1
--C: git reset HEAD^
+- A: git revert HEAD
+- B: git reset --hard HEAD~1
+- C: git reset HEAD^
    git commit -m “revert last commit”
--D: git log
+- D: git log
    git reset --hard <commit_id>
 
 ### Question 2
