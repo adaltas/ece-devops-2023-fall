@@ -187,4 +187,4 @@ It is also taken into account:
 
 - richness of the commit history
 - accuracy and purity of the project (descriptions, source code, files structure)
-- activity during course sessions
+- activity during course sessions: Add your labs repository to the README.md if it's not contemplated in the same repository as the project. 
