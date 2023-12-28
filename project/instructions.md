@@ -2,7 +2,7 @@
 
 ## Deadline
 
-<!-- Place the date here. -->
+29-12-2023 @ 23:59
 
 ## Opportunities
 
